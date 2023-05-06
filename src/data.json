@@ -1,0 +1,211 @@
+Object
+config
+: 
+adapter
+: 
+Array(2)
+0
+: 
+"xhr"
+1
+: 
+"http"
+length
+: 
+2
+[[Prototype]]
+: 
+Array(0)
+baseURL
+: 
+"https://api.themoviedb.org/3"
+data
+: 
+undefined
+env
+: 
+{FormData: ƒ, Blob: ƒ}
+headers
+: 
+AxiosHeaders {Accept: 'application/json, text/plain, */*', Content-Type: null}
+maxBodyLength
+: 
+-1
+maxContentLength
+: 
+-1
+method
+: 
+"get"
+timeout
+: 
+0
+transformRequest
+: 
+[ƒ]
+transformResponse
+: 
+[ƒ]
+transitional
+: 
+{silentJSONParsing: true, forcedJSONParsing: true, clarifyTimeoutError: false}
+url
+: 
+"/trending/all/week?api_key=d2062d75cc6eb05360a9a62e89049efc&language=en-US"
+validateStatus
+: 
+ƒ validateStatus(status)
+xsrfCookieName
+: 
+"XSRF-TOKEN"
+xsrfHeaderName
+: 
+"X-XSRF-TOKEN"
+[[Prototype]]
+: 
+Object
+data
+: 
+page
+: 
+1
+results
+: 
+Array(20)
+0
+: 
+adult
+: 
+false
+backdrop_path
+: 
+"/3CxUndGhUcZdt1Zggjdb2HkLLQX.jpg"
+genre_ids
+: 
+(3) [28, 12, 878]
+id
+: 
+640146
+media_type
+: 
+"movie"
+original_language
+: 
+"en"
+original_title
+: 
+"Ant-Man and the Wasp: Quantumania"
+overview
+: 
+"Super-Hero partners Scott Lang and Hope van Dyne, along with with Hope's parents Janet van Dyne and Hank Pym, and Scott's daughter Cassie Lang, find themselves exploring the Quantum Realm, interacting with strange new creatures and embarking on an adventure that will push them beyond the limits of what they thought possible."
+popularity
+: 
+11938.691
+poster_path
+: 
+"/ngl2FKBlU4fhbdsrtdom9LVLBXw.jpg"
+release_date
+: 
+"2023-02-15"
+title
+: 
+"Ant-Man and the Wasp: Quantumania"
+video
+: 
+false
+vote_average
+: 
+6.542
+vote_count
+: 
+2055
+[[Prototype]]
+: 
+Object
+1
+: 
+{adult: false, backdrop_path: '/44immBwzhDVyjn87b3x3l9mlhAD.jpg', id: 934433, title: 'Scream VI', original_language: 'en', …}
+2
+: 
+{adult: false, backdrop_path: '/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg', id: 502356, title: 'The Super Mario Bros. Movie', original_language: 'en', …}
+3
+: 
+{adult: false, backdrop_path: '/8HfjrSxfTVKmjNh8cJjbu5eXzcX.jpg', id: 420808, title: 'Peter Pan & Wendy', original_language: 'en', …}
+4
+: 
+{adult: false, backdrop_path: '/b9UCfDzwiWw7mIFsIQR9ZJUeh7q.jpg', id: 868759, title: 'Ghosted', original_language: 'en', …}
+5
+: 
+{adult: false, backdrop_path: '/8rpDcsfLJypbO6vREc0547VKqEv.jpg', id: 76600, title: 'Avatar: The Way of Water', original_language: 'en', …}
+6
+: 
+{adult: false, backdrop_path: '/wybmSmviUXxlBmX44gtpow5Y9TB.jpg', id: 594767, title: 'Shazam! Fury of the Gods', original_language: 'en', …}
+7
+: 
+{adult: false, backdrop_path: '/7bWxAsNPv9CXHOhZbJVlj2KxgfP.jpg', id: 713704, title: 'Evil Dead Rise', original_language: 'en', …}
+8
+: 
+{adult: false, backdrop_path: '/3cgRI0hOq3dYyezSYrsfdmqxtMw.jpg', id: 114922, name: 'Citadel', original_language: 'en', …}
+9
+: 
+{adult: false, backdrop_path: '/nTvM4mhqNlHIvUkI1gVnW6XP7GG.jpg', id: 85937, name: 'Demon Slayer: Kimetsu no Yaiba', original_language: 'ja', …}
+10
+: 
+{adult: false, backdrop_path: '/h8gHn0OzBoaefsYseUByqsmEDMY.jpg', id: 603692, title: 'John Wick: Chapter 4', original_language: 'en', …}
+11
+: 
+{adult: false, backdrop_path: '/6Lw54zxm6BAEKJeGlabyzzR5Juu.jpg', id: 82856, name: 'The Mandalorian', original_language: 'en', …}
+12
+: 
+{adult: false, backdrop_path: '/dQObIWkxfzKEDhtjOSoFnyCVgt0.jpg', id: 447365, title: 'Guardians of the Galaxy Volume 3', original_language: 'en', …}
+13
+: 
+{adult: false, backdrop_path: '/eEF40Xk2twM3WjRNZftfo771gjv.jpg', id: 700391, title: '65', original_language: 'en', …}
+14
+: 
+{adult: false, backdrop_path: '/cZDJ0Ye6QdgubmimrfaOMrNzfQU.jpg', id: 493529, title: 'Dungeons & Dragons: Honor Among Thieves', original_language: 'en', …}
+15
+: 
+{adult: false, backdrop_path: '/zh614Bixv2ePaHK8gzcUpUmcvYv.jpg', id: 1102776, title: 'AKA', original_language: 'fr', …}
+16
+: 
+{adult: false, backdrop_path: '/hiHGRbyTcbZoLsYYkO4QiCLYe34.jpg', id: 758323, title: "The Pope's Exorcist", original_language: 'en', …}
+17
+: 
+{adult: false, backdrop_path: '/xwA90BwZXTh8ke3CVsQlj8EOkFr.jpg', id: 948713, title: 'The Last Kingdom: Seven Kings Must Die', original_language: 'en', …}
+18
+: 
+{adult: false, backdrop_path: '/e7FzphKs5gzoghDotAEp2FeP46u.jpg', id: 649609, title: 'Renfield', original_language: 'en', …}
+19
+: 
+{adult: false, backdrop_path: '/7TdVWAO7vV9j1OLDq1hQJS3pb4U.jpg', id: 739405, title: 'Operation Fortune: Ruse de Guerre', original_language: 'en', …}
+length
+: 
+20
+[[Prototype]]
+: 
+Array(0)
+total_pages
+: 
+1000
+total_results
+: 
+20000
+[[Prototype]]
+: 
+Object
+headers
+: 
+AxiosHeaders {access-control-allow-origin: '*', access-control-expose-headers: '*', alt-svc: 'h3=":443"; ma=86400', cache-control: 'public, max-age=600', content-encoding: 'br', …}
+request
+: 
+XMLHttpRequest {onreadystatechange: null, readyState: 4, timeout: 0, withCredentials: false, upload: XMLHttpRequestUpload, …}
+status
+: 
+200
+statusText
+: 
+""
+[[Prototype]]
+: 
+Object
